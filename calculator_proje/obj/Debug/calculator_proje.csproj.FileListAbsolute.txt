@@ -1,0 +1,11 @@
+C:\Users\Furkan\Desktop\Restaurant\calculator_proje\bin\Debug\calculator_proje.exe.config
+C:\Users\Furkan\Desktop\Restaurant\calculator_proje\bin\Debug\calculator_proje.exe
+C:\Users\Furkan\Desktop\Restaurant\calculator_proje\bin\Debug\calculator_proje.pdb
+C:\Users\Furkan\Desktop\Restaurant\calculator_proje\obj\Debug\calculator_proje.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\Restaurant\calculator_proje\obj\Debug\calculator_proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\Desktop\Restaurant\calculator_proje\obj\Debug\calculator_proje.Form1.resources
+C:\Users\Furkan\Desktop\Restaurant\calculator_proje\obj\Debug\calculator_proje.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Restaurant\calculator_proje\obj\Debug\calculator_proje.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\Restaurant\calculator_proje\obj\Debug\calculator_proje.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Restaurant\calculator_proje\obj\Debug\calculator_proje.exe
+C:\Users\Furkan\Desktop\Restaurant\calculator_proje\obj\Debug\calculator_proje.pdb
